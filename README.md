@@ -1,4 +1,4 @@
-# Data Science (CS301) Lab 2 Assignment
+# Data Science (CS301) Lab 3 Assignment
 
 Exploring Gene Expression Data With R
 
